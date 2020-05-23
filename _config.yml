@@ -1,7 +1,7 @@
 title: SpecFlow
 url: "https://deeptts.github.io/specflow/"
 baseurl: "/"
-remote_theme: ankitsultana/researcher@gem
+remote_theme: deeptts/specflow
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,10 +16,10 @@ sass:
     style: compressed
     sass_dir: _sass
 
-# nav:
-#  - name: "About"
-#    link: "/"
-#  - name: "Resume"
-#    link: "resume.pdf"
-#  - name: "Contact"
-#    link: "contact"
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
