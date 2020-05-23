@@ -1,4 +1,5 @@
-title: SpecFlow
+title: SpecFlow 
+description: A Linear Spectrogram Generative Model for Speech Synthesis
 url: "https://deeptts.github.io/specflow/"
 baseurl: "/"
 remote_theme: deeptts/specflow
@@ -10,7 +11,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/deeptts/specflow"
-footer_text: "A Linear Spectrogram Generative Model for Speech Synthesis"
+footer_text: "2020 MODULABS"
 
 sass:
     style: compressed
